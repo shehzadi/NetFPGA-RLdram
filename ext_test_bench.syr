@@ -1,0 +1,191 @@
+Release 13.2 - xst O.61xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Reading design: ext_test_bench.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "ext_test_bench.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "ext_test_bench"
+Output Format                      : NGC
+Target Device                      : xc5vtx240t-2-ff1759
+
+---- Source Options
+Top Module Name                    : ext_test_bench
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Off
+Reduce Control Sets                : Off
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 32
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "rld_v5_qk_iob.v" in library work
+Compiling verilog file "rld_v5_dq_iob.v" in library work
+Module <rld_v5_qk_iob> compiled
+Compiling verilog file "rld_v5_dm_iob.v" in library work
+Module <rld_v5_dq_iob> compiled
+Compiling verilog file "rld_v4_qvld_iob.v" in library work
+Module <rld_v5_dm_iob> compiled
+Compiling verilog file "rld_v4_qk_iob.v" in library work
+Module <rld_qvld_iob> compiled
+Compiling verilog file "rld_v4_dq_iob.v" in library work
+Module <rld_v4_qk_iob> compiled
+Compiling verilog file "rld_v4_dm_iob.v" in library work
+Module <rld_v4_dq_iob> compiled
+Compiling verilog file "rld_dly_cal_sm.v" in library work
+Module <rld_v4_dm_iob> compiled
+Compiling verilog file "rld_tap_logic.v" in library work
+Module <rld_dly_cal_sm> compiled
+Compiling verilog file "rld_infrastructure_iobs.v" in library work
+Module <rld_tap_logic> compiled
+Compiling verilog file "rld_data_write.v" in library work
+Module <rld_infrastructure_iobs> compiled
+Compiling verilog file "rld_data_path_iobs.v" in library work
+Module <rld_data_write> compiled
+Compiling verilog file "rld_ctl.v" in library work
+Module <rld_data_path_iobs> compiled
+Compiling verilog file "rld_controller_iobs.v" in library work
+Module <rld_ctl> compiled
+Compiling verilog file "rld_conf.v" in library work
+Module <rld_controller_iobs> compiled
+Compiling verilog file "rld_user_interface.v" in library work
+Module <rld_conf> compiled
+Compiling verilog file "rld_phy_calib.v" in library work
+Module <rld_user_interface> compiled
+Compiling verilog file "rld_iobs.v" in library work
+Module <rld_phy_calib> compiled
+Compiling verilog file "rld_data_path.v" in library work
+Module <rld_iobs> compiled
+Compiling verilog file "rld_controller.v" in library work
+Module <rld_data_path> compiled
+Compiling verilog file "rld_top.v" in library work
+Module <rld_controller> compiled
+Compiling verilog file "rld_rst.v" in library work
+Module <rld_top> compiled
+Compiling verilog file "rld_clk_module.v" in library work
+Module <rld_rst> compiled
+Compiling verilog file "rld_seven_seg.v" in library work
+Module <rld_clk_module> compiled
+Compiling verilog file "rld_main.v" in library work
+Module <rld_seven_seg> compiled
+Compiling verilog file "rld_infrastructure_top.v" in library work
+Module <rld_main> compiled
+Compiling verilog file "rld_mem_interface_top.v" in library work
+Module <rld_infrastructure_top> compiled
+Module <rld_mem_interface_top> compiled
+Module <icon> compiled
+Compiling verilog file "rldram2.v" in library work
+Module <ila256> compiled
+Compiling verilog include file "rldram2_parameters.vh"
+Compiling verilog file "ext_test_bench.v" in library work
+Module <rldram2> compiled
+Module <ext_test_bench> compiled
+No errors in compilation
+Analysis of file <"ext_test_bench.prj"> succeeded.
+ 
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+ERROR:Xst - "ext_test_bench.v" line 70: Module <ext_test_bench> has no port.
+--> 
+
+
+Total memory usage is 480800 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    4 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

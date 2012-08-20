@@ -1,0 +1,9 @@
+CoreGen has not been configured with any user repositories.
+CoreGen has been configured with the following Xilinx repositories:
+ - '/cad_64/xilinx/ise13.2/ISE_DS/ISE/coregen/' [reloaded]
+INFO:sim - Generating component instance 'test' of 'xilinx.com:ip:mig:3.61' from
+   '/cad_64/xilinx/ise13.2/ISE_DS/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_
+   v3_61/mig_v3_61.xcd'.
+Customizing IP...
+Cancelled Customization.
+Wrote CGP file for project 'test'.

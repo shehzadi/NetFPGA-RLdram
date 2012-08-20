@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/ext_test_bench.xst" -ofn "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/ext_test_bench.syr" 

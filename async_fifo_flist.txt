@@ -1,0 +1,3 @@
+# Output products list for <async_fifo>
+async_fifo.xco
+async_fifo_flist.txt

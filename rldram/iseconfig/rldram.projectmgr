@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="rldram" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|nf10_rldram_fifo.v/infrastructure_top1 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|nf10_rldram_fifo.v/top1 - rld_top_interface/controller0 - rld_controller</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|nf10_rldram_fifo.v/top1 - rld_top_interface/data_path0 - rld_data_path</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|nf10_rldram_fifo.v/top1 - rld_top_interface/iobs0 - rld_iobs</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|cleanedUp|nf10_rldram_fifo.v/top1 - rld_top_interface/controller0 - rld_controller</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|netfpga1|final|cleanedUp|nf10_rldram_fifo.v/top1 - rld_top_interface/iobs0 - rld_iobs</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>nf10_rldram_fifo (/home/shehzadi/cleanedUp/nf10_rldram_fifo.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000251000000020000000000000000000000000200000064ffffffff000000810000000300000002000002510000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>nf10_rldram_fifo (/home/shehzadi/cleanedUp/nf10_rldram_fifo.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000002df000000010000000100000000000000000000000064ffffffff000000810000000000000001000002df0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000390000000040101000100000000000000000000000064ffffffff0000008100000000000000040000005100000001000000000000002b00000001000000000000008800000001000000000000028c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>../async_fifo.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000123000000010001000100000000000000000000000064ffffffff000000810000000000000001000001230000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Summary/Reports</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Summary/Reports</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/fallthrough_small_fifo_tester |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|fallthrough_small_fifo_v2.v/fifo - fallthrough_small_fifo</ClosedNode>
+         <ClosedNode>/fallthrough_small_fifo_tester |home|netfpga1|final|cleanedUp|fallthrough_small_fifo_v2.v</ClosedNode>
+         <ClosedNode>/fallthrough_small_fifo_tester |home|shehzadi|cleanedUp|fallthrough_small_fifo_v2.v</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|SamsProject|rldram_testbench.v/amc1 - nf10_rldram_fifo/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|SamsProject|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_top_interface</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|SamsProject|rldram_testbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface/controller0 - rld_controller</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|SamsProject|rldram_testbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface/data_path0 - rld_data_path</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|axi_memory_controller_test|nf10_sram_fifo_v1_00_a|hdl|verilog|SamsProject|rldram_testbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface/iobs0 - rld_iobs</ClosedNode>
+         <ClosedNode>/testbench |home|netfpga1|final|cleanedUp|rldram_testbench.v</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/axififo - AxiToFifo</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/fifoaxi - FifoToAxi</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/infrastructure_top0 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/infrastructure_top1 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_top_interface/data_path0 - rld_data_path</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_top_interface/iobs0 - rld_iobs</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|cleanedUp|rldram_testbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>testbench (/home/shehzadi/cleanedUp/rldram_testbench.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000022e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000022e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>testbench (/home/shehzadi/cleanedUp/rldram_testbench.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff000000000000000200000107000000c601000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

@@ -1,0 +1,28 @@
+Command line:
+   nf10_rldram_fifo_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34405
+
+Thu Jul 26 14:00:07 2012
+
+
+ Elaboration Time: 0.34 sec
+
+ Current Memory Usage: 313.397 Meg
+
+ Total Signals          : 31508
+ Total Nets             : 63124
+ Total Signal Drivers   : 21600
+ Total Blocks           : 1073
+ Total Primitive Blocks : 729
+ Total Processes        : 47336
+ Total Traceable Variables  : 25797
+ Total Scalar Nets and Variables : 1167030
+
+ Total Simulation Time: 1.24 sec
+
+ Current Memory Usage: 391.762 Meg
+
+Thu Jul 26 14:07:10 2012
+

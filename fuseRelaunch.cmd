@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench_isim_beh.exe" -prj "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench_beh.prj" "work.copytestbench" "work.glbl" 

@@ -1,0 +1,142 @@
+Running: /cad_64/xilinx/ise13.2/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/shehzadi/cleanedUp/rldram/testbench_isim_beh.exe -prj /home/shehzadi/cleanedUp/rldram/testbench_beh.prj work.testbench work.glbl 
+ISim O.61xd (signature 0xb4d1ced7)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v5_qk_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v5_dq_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v5_dm_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v4_qvld_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v4_qk_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v4_dq_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_v4_dm_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_dly_cal_sm.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../small_fifo_v3.v\" into library work
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../small_fifo_v3.v" Line 38: Parameter declaration becomes local in small_fifo with formal parameter declaration list
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_tap_logic.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_infrastructure_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_data_write.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_data_path_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_ctl.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_controller_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_conf.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_rst.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v\" into library work
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 139: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 140: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 141: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 142: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 144: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 145: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 146: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 169: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_data_path.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_controller.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_clk_module.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../fallthrough_small_fifo_v2.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../async_fifo.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_top_interface.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rld_infrastructure_top.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rldramfifomem.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rldfifoaxiarbiter.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rldaxififoarbiter.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../fifoaxi.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../axififo.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rldram2.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/cleanedUp/rldram/../rldram_testbench.v\" into library work
+Analyzing Verilog file \"/cad_64/xilinx/ise13.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "/home/shehzadi/cleanedUp/rldram/../rldram_testbench.v" Line 368: Port m_axis_0_tdata is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 353: Port tstrb is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 380: Port tstrb is not connected to this instance
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 419: Size mismatch in connection of port <din>. Formal port size is 260-bit while actual signal size is 772-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 422: Size mismatch in connection of port <dout>. Formal port size is 65-bit while actual signal size is 193-bit.
+WARNING:HDLCompiler:1016 - "/home/shehzadi/cleanedUp/rldram/../rldramfifomem.v" Line 332: Port full is not connected to this instance
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 439: Size mismatch in connection of port <read_data>. Formal port size is 65-bit while actual signal size is 193-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 444: Size mismatch in connection of port <write_data>. Formal port size is 65-bit while actual signal size is 193-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 570: Size mismatch in connection of port <cs_io>. Formal port size is 1024-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 463: Size mismatch in connection of port <DO>. Formal port size is 16-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 471: Size mismatch in connection of port <DI>. Formal port size is 16-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 510: Size mismatch in connection of port <DO>. Formal port size is 32-bit while actual signal size is 26-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 518: Size mismatch in connection of port <DI>. Formal port size is 32-bit while actual signal size is 26-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 662: Size mismatch in connection of port <cs_io>. Formal port size is 1024-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 787: Size mismatch in connection of port <din>. Formal port size is 65-bit while actual signal size is 193-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 791: Size mismatch in connection of port <dout>. Formal port size is 260-bit while actual signal size is 772-bit.
+WARNING:HDLCompiler:1016 - "/home/shehzadi/cleanedUp/rldram/../axififo.v" Line 197: Port prog_full is not connected to this instance
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../axififo.v" Line 197: Size mismatch in connection of port <din>. Formal port size is 72-bit while actual signal size is 65-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 398: Size mismatch in connection of port <din>. Formal port size is 65-bit while actual signal size is 193-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/cleanedUp/rldram/../fifoaxi.v" Line 131: Size mismatch in connection of port <din>. Formal port size is 72-bit while actual signal size is 65-bit.
+Completed static elaboration
+Fuse Memory Usage: 85296 KB
+Fuse CPU Usage: 450 ms
+Compiling module fifo_generator_v8_2_bhv_ver_as(C...
+Compiling module fifo_generator_v8_2_bhv_ver_prel...
+Compiling module FIFO_GENERATOR_V8_2_CONV_VER(C_C...
+Compiling module FIFO_GENERATOR_V8_2(C_DATA_COUNT...
+Compiling module async_fifo
+Compiling module AxiToFifo(TID_WIDTH=4,TDATA_WIDT...
+Compiling module FifoToAxi(TID_WIDTH=4,TDATA_WIDT...
+Compiling module rldAxiFifoArbiter(TDATA_WIDTH=8,...
+Compiling module small_fifo(WIDTH=144,MAX_DEPTH_B...
+Compiling module fallthrough_small_fifo(WIDTH=144...
+Compiling module rldFifoMem(TDATA_WIDTH=8,TUSER_W...
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=36,D...
+Compiling module FIFO36(DATA_WIDTH=36)
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=4,DO...
+Compiling module FIFO18(DATA_WIDTH=4)
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=36,D...
+Compiling module FIFO36(ALMOST_EMPTY_OFFSET=12'b0...
+Compiling module rld_user_interface(RL_DQ_WIDTH=7...
+Compiling module rld_data_write(RL_DQ_WIDTH=72,DE...
+Compiling module IDELAYCTRL
+Compiling module rld_dly_cal_sm(DEV_DQ_WIDTH=36,R...
+Compiling module rld_tap_logic(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_data_path(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_controller_iobs(RL_DQ_WIDTH=...
+Compiling module BUFIO
+Compiling module IDELAY(IOBDELAY_TYPE="VARIABLE")
+Compiling module IBUFDS
+Compiling module rld_v5_qk_iob
+Compiling module ODDR(DDR_CLK_EDGE="SAME_EDGE")
+Compiling module FDCE
+Compiling module IOBUF
+Compiling module ISERDES(IOBDELAY="IFD",IOBDELAY_...
+Compiling module rld_v5_dq_iob
+Compiling module rld_qvld_iob(RL_IO_TYPE=32'sb0,D...
+Compiling module rld_v5_dm_iob
+Compiling module rld_data_path_iobs(RL_DQ_WIDTH=7...
+Compiling module OBUFDS
+Compiling module ODDR
+Compiling module rld_infrastructure_iobs(RL_DQ_WI...
+Compiling module rld_iobs(RL_DQ_WIDTH=72,DEV_DQ_W...
+Compiling module rld_conf(RL_CK_PERIOD=32'sb01011...
+Compiling module rld_ctl(RL_DQ_WIDTH=72,DEV_DQ_WI...
+Compiling module rld_controller(RL_DQ_WIDTH=72,DE...
+Compiling module rld_phy_calib(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_top_interface(RL_DQ_WIDTH=72...
+Compiling module IBUFGDS
+Compiling module dcm_adv_clock_divide_by_2
+Compiling module dcm_adv_maximum_period_check(clo...
+Compiling module dcm_adv_maximum_period_check(clo...
+Compiling module dcm_adv_clock_lost
+Compiling module DCM_ADV(CLKDV_DIVIDE=16.0,CLKFX_...
+Compiling module DCM_BASE(CLKDV_DIVIDE=16.0,CLKFX...
+Compiling module BUFG
+Compiling module rld_clk_module(RL_DQ_WIDTH=72,DE...
+Compiling module rld_rst(SIMULATION_ONLY=32'sb0,R...
+Compiling module rld_infrastructure_top(SIMULATIO...
+Compiling module rldFifoAxiArbiter(TDATA_WIDTH=8,...
+Compiling module nf10_rldram_fifo_default
+Compiling module rldram2
+Compiling module testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 62 Verilog Units
+Built simulation executable /home/shehzadi/cleanedUp/rldram/testbench_isim_beh.exe
+Fuse Memory Usage: 1184996 KB
+Fuse CPU Usage: 2280 ms
+GCC CPU Usage: 26560 ms

@@ -1,0 +1,143 @@
+Running: /cad_64/xilinx/ise13.2/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench_isim_beh.exe -prj /home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench_beh.prj work.copytestbench work.glbl 
+ISim O.61xd (signature 0xb4d1ced7)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v5_qk_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v5_dq_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v5_dm_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v4_qvld_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v4_qk_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v4_dq_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_v4_dm_iob.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_dly_cal_sm.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_tap_logic.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_infrastructure_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_data_write.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_data_path_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_ctl.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_controller_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_conf.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_user_interface.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v\" into library work
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 139: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 140: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 141: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 142: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 144: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 145: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 146: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_phy_calib.v" Line 169: Parameter declaration becomes local in rld_phy_calib with formal parameter declaration list
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_iobs.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_data_path.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_controller.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/small_fifo_v3.v\" into library work
+WARNING:HDLCompiler:693 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/small_fifo_v3.v" Line 38: Parameter declaration becomes local in small_fifo with formal parameter declaration list
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_top.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_rst.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_clk_module.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_seven_seg.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_main.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_infrastructure_top.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/fallthrough_small_fifo_v2.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/async_fifo.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_mem_interface_top.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldramfifomem.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldfifoaxiarbiter.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldaxififoarbiter.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/fifoaxi.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/axififo.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v\" into library work
+WARNING:HDLCompiler:114 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 388: /* in comment
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram2.v\" into library work
+Analyzing Verilog file \"/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench.v\" into library work
+Analyzing Verilog file \"/cad_64/xilinx/ise13.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench.v" Line 390: Port clk33 is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 392: Port tkeep is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 422: Port tstrb is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 527: Port FPGA3_7SEG is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 607: Port FPGA3_7SEG is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldramfifomem.v" Line 335: Port full is not connected to this instance
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_user_interface.v" Line 463: Size mismatch in connection of port <DO>. Formal port size is 16-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_user_interface.v" Line 471: Size mismatch in connection of port <DI>. Formal port size is 16-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_user_interface.v" Line 510: Size mismatch in connection of port <DO>. Formal port size is 32-bit while actual signal size is 26-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rld_user_interface.v" Line 518: Size mismatch in connection of port <DI>. Formal port size is 32-bit while actual signal size is 26-bit.
+WARNING:HDLCompiler:1016 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/axififo.v" Line 273: Port prog_full is not connected to this instance
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/axififo.v" Line 273: Size mismatch in connection of port <din>. Formal port size is 278-bit while actual signal size is 201-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/rldram_top_test_module.v" Line 434: Size mismatch in connection of port <tdata>. Formal port size is 256-bit while actual signal size is 192-bit.
+WARNING:HDLCompiler:189 - "/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/fifoaxi.v" Line 182: Size mismatch in connection of port <din>. Formal port size is 278-bit while actual signal size is 201-bit.
+Completed static elaboration
+Fuse Memory Usage: 85684 KB
+Fuse CPU Usage: 460 ms
+Compiling module fifo_generator_v8_2_bhv_ver_as(C...
+Compiling module fifo_generator_v8_2_bhv_ver_prel...
+Compiling module FIFO_GENERATOR_V8_2_CONV_VER(C_C...
+Compiling module FIFO_GENERATOR_V8_2(C_DATA_COUNT...
+Compiling module async_fifo
+Compiling module AxiToFifo(TID_WIDTH=4,TDATA_WIDT...
+Compiling module FifoToAxi(TID_WIDTH=4,TDATA_WIDT...
+Compiling module rldAxiFifoArbiter(TDATA_WIDTH=24...
+Compiling module small_fifo(WIDTH=144,MAX_DEPTH_B...
+Compiling module fallthrough_small_fifo(WIDTH=144...
+Compiling module rldFifoMem(TDATA_WIDTH=32,TUSER_...
+Compiling module IBUFGDS
+Compiling module dcm_adv_clock_divide_by_2
+Compiling module dcm_adv_maximum_period_check(clo...
+Compiling module dcm_adv_maximum_period_check(clo...
+Compiling module dcm_adv_clock_lost
+Compiling module DCM_ADV(CLKDV_DIVIDE=16.0,CLKFX_...
+Compiling module DCM_BASE(CLKDV_DIVIDE=16.0,CLKFX...
+Compiling module BUFG
+Compiling module rld_clk_module(RL_DQ_WIDTH=72,DE...
+Compiling module rld_rst(SIMULATION_ONLY=1'b0,RL_...
+Compiling module rld_infrastructure_top(SIMULATIO...
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=36,D...
+Compiling module FIFO36(DATA_WIDTH=36)
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=4,DO...
+Compiling module FIFO18(DATA_WIDTH=4)
+Compiling module AFIFO36_INTERNAL(DATA_WIDTH=36,D...
+Compiling module FIFO36(ALMOST_EMPTY_OFFSET=12'b0...
+Compiling module rld_user_interface(RL_DQ_WIDTH=7...
+Compiling module rld_data_write(RL_DQ_WIDTH=72,DE...
+Compiling module IDELAYCTRL
+Compiling module rld_dly_cal_sm(DEV_DQ_WIDTH=36,R...
+Compiling module rld_tap_logic(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_data_path(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_controller_iobs(RL_DQ_WIDTH=...
+Compiling module BUFIO
+Compiling module IDELAY(IOBDELAY_TYPE="VARIABLE")
+Compiling module IBUFDS
+Compiling module rld_v5_qk_iob
+Compiling module ODDR(DDR_CLK_EDGE="SAME_EDGE")
+Compiling module FDCE
+Compiling module IOBUF
+Compiling module ISERDES(IOBDELAY="IFD",IOBDELAY_...
+Compiling module rld_v5_dq_iob
+Compiling module rld_qvld_iob(RL_IO_TYPE=2'b0,DEV...
+Compiling module rld_v5_dm_iob
+Compiling module rld_data_path_iobs(RL_DQ_WIDTH=7...
+Compiling module OBUFDS
+Compiling module ODDR
+Compiling module rld_infrastructure_iobs(RL_DQ_WI...
+Compiling module rld_iobs(RL_DQ_WIDTH=72,DEV_DQ_W...
+Compiling module rld_conf(RL_CK_PERIOD=16'b010111...
+Compiling module rld_ctl(RL_DQ_WIDTH=72,DEV_DQ_WI...
+Compiling module rld_controller(RL_DQ_WIDTH=72,DE...
+Compiling module rld_phy_calib(RL_DQ_WIDTH=72,DEV...
+Compiling module rld_top(RL_DQ_WIDTH=72,DEV_DQ_WI...
+Compiling module rld_main(RL_DQ_WIDTH=72,DEV_DQ_W...
+Compiling module rld_seven_seg
+Compiling module rld_mem_interface_top(SIMULATION...
+Compiling module rldFifoAxiArbiter(TDATA_WIDTH=24...
+Compiling module rldram_top_test_module(SIMULATIO...
+Compiling module rldram2
+Compiling module copytestbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 65 Verilog Units
+Built simulation executable /home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/copytestbench_isim_beh.exe
+Fuse Memory Usage: 1185428 KB
+Fuse CPU Usage: 2310 ms
+GCC CPU Usage: 27070 ms

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="workingRLDRAM" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/axififo - AxiToFifo</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/fifoaxi - FifoToAxi</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/ml561_top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/ml561_top1 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/ml561_top0 - rldram_top_test_module/ml561_top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/ext_test_bench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|ext_test_bench.v</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|nf10_rldram_fifo.v</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|nf10_rldram_fifo.v/infrastructure_top0 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|nf10_rldram_fifo.v/top012 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/rld_infrastructure_top |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rld_infrastructure_top.v</ClosedNode>
+         <ClosedNode>/rld_main |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rld_main.v</ClosedNode>
+         <ClosedNode>/tb |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|tb.v</ClosedNode>
+         <ClosedNode>/test_bench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|test_bench.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>top.ucf (/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/top.ucf)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000214000000020000000000000000000000000200000064ffffffff000000810000000300000002000002140000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>top.ucf (/home/shehzadi/RLDRAM_controller_revision_2/XAPP852/verilog/workingRLDRAM/top.ucf)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>fifoaxi.v</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >11</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002e8000000040101000100000000000000000000000064ffffffff000000810000000000000004000000e40000000100000000000001180000000100000000000000880000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>fifoaxi.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001f1000000010001000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/axififo - AxiToFifo</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/fifoaxi - FifoToAxi</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/infrastructure_top1 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/fifoaxi - FifoToAxi</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/ml561_top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/amcversion - rldram_top_test_module/ml561_top1 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/copytestbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|copytestbench.v/ml561_top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/ext_test_bench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|ext_test_bench.v</ClosedNode>
+         <ClosedNode>/ext_test_bench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|ext_test_bench.v/ml561_top0 - rld_mem_interface_top</ClosedNode>
+         <ClosedNode>/ext_test_bench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|ext_test_bench.v/ml561_top0 - rld_mem_interface_top/main0 - rld_main/top0 - rld_top</ClosedNode>
+         <ClosedNode>/fallthrough_small_fifo_tester |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|fallthrough_small_fifo_v2.v</ClosedNode>
+         <ClosedNode>/nf10_rldram_fifo |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|nf10_rldram_fifo.v</ClosedNode>
+         <ClosedNode>/rld_top_interface |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rld_top_interface.v</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/axififo - AxiToFifo</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/fifoaxi - FifoToAxi</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/fifomem - rldFifoMem</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/infrastructure_top0 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/infrastructure_top1 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_mem_interface_top/infrastructure_top0 - rld_infrastructure_top</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_mem_interface_top/main0 - rld_main</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/top0 - rld_top_interface</ClosedNode>
+         <ClosedNode>/testbench |home|shehzadi|RLDRAM_controller_revision_2|XAPP852|verilog|workingRLDRAM|rldram_testbench.v/amc1 - nf10_rldram_fifo/top1 - rld_top_interface</ClosedNode>
+         <ClosedNode>PROJECT</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b6000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b60000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001460000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

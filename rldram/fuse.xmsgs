@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../small_fifo_v3.v" Line 38: Parameter declaration becomes local in <arg fmt="%s" index="1">small_fifo</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 139: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 140: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 141: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 142: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 144: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 145: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 146: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="693" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_phy_calib.v" Line 169: Parameter declaration becomes local in <arg fmt="%s" index="1">rld_phy_calib</arg> with formal parameter declaration list
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rldram_testbench.v" Line 368: Port <arg fmt="%s" index="1">m_axis_0_tdata</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 353: Port <arg fmt="%s" index="1">tstrb</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 380: Port <arg fmt="%s" index="1">tstrb</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 419: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">din</arg>&gt;. Formal port size is <arg fmt="%d" index="2">260</arg>-bit while actual signal size is <arg fmt="%d" index="1">772</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 422: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">dout</arg>&gt;. Formal port size is <arg fmt="%d" index="2">65</arg>-bit while actual signal size is <arg fmt="%d" index="1">193</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rldramfifomem.v" Line 332: Port <arg fmt="%s" index="1">full</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 439: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">read_data</arg>&gt;. Formal port size is <arg fmt="%d" index="2">65</arg>-bit while actual signal size is <arg fmt="%d" index="1">193</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 444: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">write_data</arg>&gt;. Formal port size is <arg fmt="%d" index="2">65</arg>-bit while actual signal size is <arg fmt="%d" index="1">193</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 570: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">cs_io</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1024</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 463: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">DO</arg>&gt;. Formal port size is <arg fmt="%d" index="2">16</arg>-bit while actual signal size is <arg fmt="%d" index="1">4</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 471: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">DI</arg>&gt;. Formal port size is <arg fmt="%d" index="2">16</arg>-bit while actual signal size is <arg fmt="%d" index="1">4</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 510: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">DO</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">26</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../rld_user_interface.v" Line 518: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">DI</arg>&gt;. Formal port size is <arg fmt="%d" index="2">32</arg>-bit while actual signal size is <arg fmt="%d" index="1">26</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 662: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">cs_io</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1024</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 787: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">din</arg>&gt;. Formal port size is <arg fmt="%d" index="2">65</arg>-bit while actual signal size is <arg fmt="%d" index="1">193</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 791: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">dout</arg>&gt;. Formal port size is <arg fmt="%d" index="2">260</arg>-bit while actual signal size is <arg fmt="%d" index="1">772</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../axififo.v" Line 197: Port <arg fmt="%s" index="1">prog_full</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../axififo.v" Line 197: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">din</arg>&gt;. Formal port size is <arg fmt="%d" index="2">72</arg>-bit while actual signal size is <arg fmt="%d" index="1">65</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../nf10_rldram_fifo.v" Line 398: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">din</arg>&gt;. Formal port size is <arg fmt="%d" index="2">65</arg>-bit while actual signal size is <arg fmt="%d" index="1">193</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"/home/shehzadi/cleanedUp/rldram/../fifoaxi.v" Line 131: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">din</arg>&gt;. Formal port size is <arg fmt="%d" index="2">72</arg>-bit while actual signal size is <arg fmt="%d" index="1">65</arg>-bit.
+</msg>
+
+</messages>
+

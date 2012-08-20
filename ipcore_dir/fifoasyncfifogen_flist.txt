@@ -1,0 +1,23 @@
+# Output products list for <fifoasyncfifogen>
+fifo_generator_ug175.pdf
+fifo_generator_v8_2_readme.txt
+fifoasyncfifogen.asy
+fifoasyncfifogen.gise
+fifoasyncfifogen.ngc
+fifoasyncfifogen.sym
+fifoasyncfifogen.v
+fifoasyncfifogen.veo
+fifoasyncfifogen.xco
+fifoasyncfifogen.xise
+fifoasyncfifogen_flist.txt
+fifoasyncfifogen_ste/example_design/fifoasyncfifogen_top.ucf
+fifoasyncfifogen_ste/example_design/fifoasyncfifogen_top.vhd
+fifoasyncfifogen_ste/example_design/fifoasyncfifogen_top.xdc
+fifoasyncfifogen_ste/implement/implement.bat
+fifoasyncfifogen_ste/implement/implement.sh
+fifoasyncfifogen_ste/implement/planAhead_rdn.bat
+fifoasyncfifogen_ste/implement/planAhead_rdn.sh
+fifoasyncfifogen_ste/implement/planAhead_rdn.tcl
+fifoasyncfifogen_ste/implement/xst.prj
+fifoasyncfifogen_ste/implement/xst.scr
+fifoasyncfifogen_xmdf.tcl
